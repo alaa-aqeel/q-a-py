@@ -1,4 +1,4 @@
-# Q&A
+# Q&A System
 ### A simple Q&A system that finds the most relevant answers from a predefined dataset of questions and answers using **Sentence Transformers** and **cosine similarity**.
 
 - Compute embeddings for a dataset of questions.
