@@ -7,7 +7,11 @@
 - Flag whether the best answer is relevant based on a similarity threshold.
 
 
-
+## Run 
+```sh
+$ pip install -r requirements.txt
+$ python main.py
+```
 
 ## Overview 
 ```
@@ -55,3 +59,4 @@ Score: 0.1553
 | Answer => ChatGPT was created by OpenAI, a research organization focused on artificial intelligence.
 
 ```
+
